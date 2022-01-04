@@ -12,7 +12,7 @@ Copyright permission under GNU GENERAL PUBLIC LICENSE
 ```
 
 ### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TELEZEN/Frwdit)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TELEZEN/frbot2)
 
 ## HOW TO DEPLOY YOUTUBE TUTORIAL
 
