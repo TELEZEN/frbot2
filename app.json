@@ -10,8 +10,8 @@
     "bot"
   ],
   "success_url": "https://t.me/DForDarkAngel",
-  "website": "https://github.com/TELEZEN/Frwdit",
-  "repository": "https://github.com/TELEZEN/Frwdit",
+  "website": "https://github.com/TELEZEN/frbot2",
+  "repository": "https://github.com/TELEZEN/frbot2",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org or @UseTGXBot",
